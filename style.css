@@ -1,0 +1,315 @@
+* h2{
+  font-family: "Bubblegum Sans", sans-serif;
+  font-size: 35px;
+  color: #8A7BD1;
+}
+* span{
+  color: #F8B54D;
+}
+* p{
+  font-family: "Dosis", sans-serif;
+  font-size: 20px;
+  color: #777777;
+}
+.bubblegum-sans-regular {
+    font-family: "Bubblegum Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .dosis {
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+
+  .nav-link.dropdown-toggle::after {
+    display: none; /* Hides the default dropdown arrow */
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+.header_border1{
+  border-top: 2px solid rgb(184, 43, 184);
+}
+.header_border2{
+  border-top: 2px solid yellow;
+}
+.header_border3{
+  border-top: 2px solid rgb(238, 75, 75);
+}
+.header_border4{
+  border-top: 2px solid rgb(10, 211, 10);
+}
+.header_border5{
+  border-top: 2px solid rgb(79, 86, 182);
+}
+.header_border6{
+  border-top: 2px solid rgb(240, 113, 67);
+}
+.header_border7{
+  border-top: 2px solid rgb(146, 189, 62);
+}
+.navbar1{
+  font-family: "Dosis", sans-serif;
+  font-size: 16px;
+}
+.navbar2{
+  font-family: "Dosis", sans-serif;
+  font-size: 18px;
+}
+.bbb{
+  border-radius: 0px 10px 0px 10px;
+  background-color: #FF8454;
+  padding: 12px 30px;
+  border: none;
+  color: aliceblue;
+  font-family: "Bubblegum Sans", sans-serif;
+  font-size: 28px;
+}
+
+.hero_text{
+  background-color: #FF8454;
+  opacity: 0.7;
+  height: 30vh;
+  width: 30%;
+}
+.hero_h2{
+  font-family: "Dosis", sans-serif;
+  padding: 0px 30px;
+  font-size: 40px;
+}
+
+#join_now{
+  background:linear-gradient(rgba(255,255,255,0.3),rgba(255,255,255,0.3)), url("../images/join_now1.jpg!sw800");
+}
+.join_now_text h3{
+  color: rgb(29, 86, 136);
+  font-family: "Bubblegum Sans", sans-serif;
+  font-size: 48px;
+}
+
+#features2{
+  background: url("../images/feature_img.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 80vh;
+  padding: 100px 0px;
+  background-size: 35%;
+}
+.F h3{
+  font-family: "Bubblegum Sans", sans-serif;
+  font-size: 22px;
+  }
+  .feature_text1 h3{
+  color: #D07DD2;
+  text-align: end;
+  }
+  .feature_text1 p{
+    padding-left: 50px;
+    text-align: end;
+  }
+  .feature_text2 h3{
+    color: #ADCB69;
+    padding-left: 90px;
+  }
+  .feature_text2 p{
+    padding-left: 90px;
+  }
+  .feature_text3 h3{
+    color: #F8B54D;
+    text-align: end;
+  }
+  .feature_text4 h3{
+    color: #FC5B4E;
+    padding-left: 80px;
+  }
+  .feature_text4 p{
+    padding-left: 80px;
+  }
+  .feature_text5 h3{
+    color: #8373CE;
+    text-align: end;
+  }
+  .feature_text6 h3{
+    color: #84BED6;
+    padding-left: 80px;
+  }
+  .feature_text6 p{
+    padding-left: 80px;
+  }
+
+.feature1_inner h3{
+  font-family: "Bubblegum Sans", sans-serif;
+  font-size: 22px;
+}
+.ftext1 h3{
+    color: #D07DD2;
+    }
+    .ftext2 h3{
+      color: #ADCB69;
+    }
+    .ftext3 h3{
+      color: #F8B54D;
+    }
+    .ftext4 h3{
+      color: #FC5B4E;
+    }
+    .ftext5 h3{
+      color: #8373CE;
+    }
+    .ftext6 h3{
+      color: #84BED6;
+    }
+  
+ #special_courses{
+    background:linear-gradient(rgba(255,255,255,0.2),rgba(255,255,255,0.3)) ,url("../images/courses_background.jpg");
+    background-repeat: no-repeat;
+}
+.courses_text{
+    font-family: "Bubblegum Sans", sans-serif;
+    font-size: 20px;
+    color: #8373CE;
+}
+.courses_text1 h3{
+  font-family: "Dosis", sans-serif;
+  font-size: 30px;
+  color: #ADCB69;
+}
+.courses_text1 h4{
+  font-family: "Bubblegum Sans", sans-serif;
+  font-size: 27px;
+  color: #F8B54D;
+}
+.course_img img{
+  border-radius: 0px 20px 0px 20px;
+}
+
+.gallery1 img{
+  border-radius: 0px 20px 0px 20px;
+}
+
+#team_members{
+  background: url("https://d1csarkz8obe9u.cloudfront.net/posterpreviews/powerpoint-nature-zen-background-design-template-f2dce050d5dfc1ca63900c0c9ba25f75_screen.jpg?ts=1692126073");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  /* height: 100vh; */
+}
+.team_card img{
+  border-radius: 0px 20px 0px 20px;
+}
+.team_text h4{
+  font-family: "Bubblegum Sans", sans-serif;
+  font-size: 27px;
+  color: #FBA505;
+}
+.team_text p{
+  font-family: "Dosis", sans-serif;
+  font-size: 18px;
+}
+.team_text1{
+  font-family: "Bubblegum Sans", sans-serif;
+  font-size: 24px;
+  color: #D07DD2;
+}
+.team_text2{
+  font-family: "Bubblegum Sans", sans-serif;
+  color: #8373CE;
+}
+.team_text2 span{
+  font-family: "Bubblegum Sans", sans-serif;
+  color: #FBA505;
+}
+.team_btn{
+  font-family: "Dosis", sans-serif;
+  font-size: 21px;
+  color: #FBA505;
+  background: none;
+  border: none;
+}
+.btn1{
+  background-color: #ADCB69;
+  border: none;
+  border-radius: 0px 20px 0px 20px;
+}
+.btn2{
+  background-color: #EC4F74;
+  border: none;
+  border-radius: 0px 20px 0px 20px;
+}
+.btn3{
+  background-color: #5BC89F;
+  border: none;
+  border-radius: 0px 20px 0px 20px;
+}
+.btn4{
+  background-color: #1CC6DF;
+  border: none;
+  border-radius: 0px 20px 0px 20px;
+}
+.contact_inner i{
+  padding: 30px 35px;
+  color: aliceblue;
+  font-size: 32px;
+  border-radius: 0px 20px 0px 20px;
+}
+.contact_inner h3{
+  font-family: "Bubblegum Sans", sans-serif;
+  font-size: 34px;
+  padding-top: 12px;
+}
+.contact1 i{
+  background-color: #ADCB69;
+}
+.contact2 i{
+  background-color: #EC4F74;
+}
+.contact3 i{
+  background-color: #5BC89F;
+}
+.contact1 h3{
+  color: #ADCB69;
+}
+.contact2 h3{
+  color: #EC4F74;
+}
+.contact3 h3{
+  color: #5BC89F;
+}
+#footer {
+  background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url("../images/join_now1.jpg!sw800");
+  height: 20vh;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.footer_inner2 h6{
+  color: aliceblue;
+  font-family: "Bubblegum Sans", sans-serif;
+  text-align: end;
+}
+
+.finner li a{
+  text-decoration: none;
+  color: aliceblue;
+  font-family: "Bubblegum Sans", sans-serif;
+}
+.finner li {
+  list-style-type: none;
+}
+
+.demo{
+  height: 70vh;
+  object-fit: fill;
+}
+
+
+
+  @media (max-width: 991px) {
+    #features2 {
+        background-image: none; /*Remove background image*/
+        width: 100%;
+        height: 15vh;
+    }
+}
